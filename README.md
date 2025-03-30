@@ -229,6 +229,8 @@ docker-compose down -v
 2. im-service
 3. im-message-store
 4. im-tcp
+![image](https://github.com/user-attachments/assets/b40a4ec0-25ee-496a-a851-a93175644156)
+
 
 ### 6. 服务访问
 
