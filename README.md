@@ -1,3 +1,8 @@
+<!--TRANSLATION_LINKS_START-->
+#### Supported by [GitHub Doc Translation](https://github.com/scenery-j/GitHub-Doc-Translation)
+> 📖 **其他语言版本**：[English (en)](translations/en/README.md)
+<!--TRANSLATION_LINKS_END-->
+
 # 系统架构介绍
 ### 一、该项目对外提供即使通讯服务（单聊和群聊）的同时，可以实现的自定义多端(web、ios、android )消息同步、离线消息缓存、在线状态变更、多系统的接入、智能对话（对接通义千问大模型）等功能。
 #### 1、业务系统：开启 Netty 服务（实现自定义协议）实现单聊/群聊的消息发送、即时通讯业务其他的业务逻辑。
