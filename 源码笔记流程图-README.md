@@ -1,3 +1,8 @@
+<!--TRANSLATION_LINKS_START-->
+#### Supported by [GitHub Doc Translation](https://github.com/scenery-j/GitHub-Doc-Translation)
+> 📖 **其他语言版本**：[English (en)](translations/en/源码笔记流程图-README.md)
+<!--TRANSLATION_LINKS_END-->
+
 # 框架源码解析流程图相关链接
 ![image](https://github.com/user-attachments/assets/9cd8ba47-ca5a-439f-bf90-969adbbe9499)
 
