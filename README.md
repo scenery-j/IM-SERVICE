@@ -14,7 +14,7 @@
 #### rabbitmq： 完成消息的分发
 #### mysql： 业务数据存储
 #### redis： 离线消息存储和热点数据存储
-#### naocs： 实现 tcp 微服务服务注册和发现、dubbo注册中心
+#### nacos： 实现 tcp 微服务服务注册和发现、dubbo注册中心
 #### Spring Boot: 微服务框架
 ### 三、后台服务模块介绍
 #### im-codec：netty 自定义协议相关的实现
