@@ -1,6 +1,5 @@
 <!--TRANSLATION_LINKS_START-->
 #### Supported by [GitHub Doc Translation](https://github.com/scenery-j/GitHub-Doc-Translation)
-> 📖 **其他语言版本**：[English (en)](translations/en/README.md)
 <!--TRANSLATION_LINKS_END-->
 
 # 系统架构介绍
